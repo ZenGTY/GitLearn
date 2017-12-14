@@ -10,3 +10,4 @@ asdasd
 
 dev"update"
 
+local"update"
